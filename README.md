@@ -1,6 +1,6 @@
 Statistic
 ======
-Statistic is a simple Perl module for statistic testing
+Statistic is a simple Perl module for statistic Testing
 
 __Author & contributors:__ Shujia Huang              <br/>
 __Contact              :__ huangshujia@genomics.cn   <br/>
